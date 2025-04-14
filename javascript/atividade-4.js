@@ -1,10 +1,10 @@
-function calcularTinta(largura, altura){
-    const area = largura * altura
-    const litroPorMetro = 2
+function calcularTinta(largura, altura){ // função 
+    const area = largura * altura // nome da função
+    const litroPorMetro = 2 // variavel litro metro
 
     const litros = area * litroPorMetro
 
-    console.log(litros)
+    console.log(litros) // comando para visualizar
 }
 
 calcularTinta(4, 3)

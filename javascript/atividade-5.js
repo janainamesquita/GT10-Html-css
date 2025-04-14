@@ -9,5 +9,5 @@ function calcularAluguel(dias){
     console.log(calculo)
 }
 
-calcularAluguel(2)
 calcularAluguel(5)
+calcularAluguel(10)
