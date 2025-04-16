@@ -37,8 +37,9 @@ function calcularIMC(user){
         
     if (imc >= 35 && imc < 39.9) {
         return console.log("Obesidade")
-    }
+        
     }
 
+    }
 
 calcularIMC(user)
